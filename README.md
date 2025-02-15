@@ -11,3 +11,6 @@ CSS, JavaScript and EJS (Embedded JavaScript).
 - CD into the project folder.<br/>
 - Run the index.js file using "nodemon".<br/>
 - Open a new terminal and run server.js file on it.
+
+<h2>Author :</h2>
+Youcef Kesbi
