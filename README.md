@@ -4,7 +4,7 @@ In this website I've built my own API that retrieves the posts with their ID, Ti
 One of the projects of Udemy's "The Complete 2024 Web Development Bootcamp".
 
 <h2>Built with :</h2>
-CSS, JavaScript and EJS (Embedded JavaScript).
+CSS, JavaScript, Express JS, Node JS and EJS (Embedded JavaScript).
 
 <h2>Getting started :</h2>
 - Open terminal.<br/>
